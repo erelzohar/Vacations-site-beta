@@ -1,0 +1,7 @@
+Admin - 
+username:erel1234
+password:100200300
+
+simple user -
+username:moshke
+password:123456 
